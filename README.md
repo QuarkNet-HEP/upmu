@@ -5,7 +5,7 @@ They contain visual plots and calculations regarding cosmic ray muon data.
 
 You can  install Anaconda to run Jupyter locally on your computer. 
 
-<strong>Here are the different Jupyter Notebooks.</strong>
+<strong>Here are the different Jupyter Notebooks that you have access to.</strong>
 <table style="width:100%">
   <tr>
     <th>qn_upmu_2022exp.ipynb</th>
@@ -21,7 +21,7 @@ You can  install Anaconda to run Jupyter locally on your computer.
 
 
 <p><i>Please Note</i></p>
-<p><i>Unzip the 6119-hybridOut-June17-27.zip file and then run your code</i></p>
+<p><i>Unzip the 6119-hybridOut-June17-27.zip file before running your code</i></p>
 
 
 
