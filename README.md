@@ -18,7 +18,8 @@ You can  install Anaconda to run Jupyter locally on your computer.
   </tr>
 </table>
 
-
+<strong>Please Note</strong>
+<p><i>Unzip the 6119-hybridOut-June17-27.zip file and then run your code</i></p>
 
 
 
