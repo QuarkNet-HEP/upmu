@@ -4,14 +4,6 @@ These programs were developed during the QuarkNet Summer Research Internship and
 
 You can  install Anaconda to run Jupyter locally on your computer. 
 
-
-<style>
-table, th, td {
-  border:1px solid black;
-}
-</style>
-<body>
-
 <table style="width:100%">
   <tr>
     <th>qn_upmu_2022exp.ipynb</th>
@@ -25,9 +17,8 @@ table, th, td {
   </tr>
 </table>
 
-<p>To undestand the example better, we have added borders to the table.</p>
 
-</body>
+
 
 
 
