@@ -1,6 +1,7 @@
 # Upward Muon Search Experiment
 
-These programs were developed during the QuarkNet Summer Research Internship and contain many visuals regarding cosmic muon data.
+These programs were developed during the QuarkNet Summer Research Internship. 
+They contain visual plots and calculations regarding cosmic ray muon data. 
 
 You can  install Anaconda to run Jupyter locally on your computer. 
 
@@ -18,7 +19,8 @@ You can  install Anaconda to run Jupyter locally on your computer.
   </tr>
 </table>
 
-<strong>Please Note</strong>
+
+<p><i>Please Note</i></p>
 <p><i>Unzip the 6119-hybridOut-June17-27.zip file and then run your code</i></p>
 
 
