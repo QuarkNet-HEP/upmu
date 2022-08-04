@@ -25,7 +25,7 @@ You can  install Anaconda to run Jupyter locally on your computer.
 
 
 
-<p><i>Contact <a href="markadams@fnal.gov">Mark Adams</a> if you have any questions </i></p>
+<p><i>Contact <a href="adams@fnal.gov">Mark Adams</a> if you have any questions </i></p>
 
 
 
