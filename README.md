@@ -1,6 +1,6 @@
 # Upward Muon Search Experiment
 
-These programs were developed by Sri Gaddam and Serena Garza during the QuarkNet Summer Research Internship. 
+These programs were developed by Sri Gaddam and Serena Garza during the 2022 QuarkNet Summer Research Internship. 
 They contain visual plots and calculations regarding cosmic ray muon data. 
 
 You can  install <a href="https://www.anaconda.com/products/distribution">Anaconda</a> to run Jupyter locally on your computer. 
