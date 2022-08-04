@@ -29,5 +29,5 @@ Explain the input files from e-Lab 6119 detector (shower analysis) from powerpoi
 
 
 
-<p><i>Please Note</i></p>
+<p><i>Please Note...</i></p>
 <p><i>Unzip the 6119-hybridOut-June17-27.zip file before running your code</i></p>
