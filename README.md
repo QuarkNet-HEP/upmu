@@ -9,12 +9,12 @@ To download a notebook and run in locally, right-click or command-click the down
 <strong>Here are the different Jupyter Notebooks that you have access to.</strong>
 <table style="width:100%">
   <tr>
-    <th>qn_upmu_2022exp.ipynb</th>
+    <th>qn_upmu_signal_calc.ipynb</th>
     <th>qn_upmu_2d.ipynb</th>
     <th>qn_upmu_tof.ipynb</th>
   </tr>
   <tr>
-    <td>2022 Experiment Visuals and Calculations</td>
+    <td>2022 Signal Calculation</td>
     <td>2D Plots and Calculations</td>
     <td>1D Time of Flight Plots</td>
   </tr>
