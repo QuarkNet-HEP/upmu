@@ -24,7 +24,7 @@ To download a notebook and run in locally, right-click or command-click the down
 <p><i>Please Note</i></p>
 <p><i>Unzip the 6119-hybridOut-June17-27.zip file before running your code</i></p>
 
-
+Explain the input files from e-Lab 6119 detector (shower analysis) from powerpoint slides here
 
 <p><i>Contact adams@fnal.gov if you have any questions </i></p>
 
