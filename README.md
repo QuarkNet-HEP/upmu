@@ -26,7 +26,7 @@ To download a notebook and run in locally, right-click or command-click the down
 
 Explain the input files from e-Lab 6119 detector (shower analysis) from powerpoint slides here
 
-<p><i>Contact adams@fnal.gov if you have any questions </i></p>
+Contact <p><i>adams@fnal.gov</i></p> if you have any questions 
 
 
 
