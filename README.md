@@ -4,6 +4,7 @@ These programs were developed during the QuarkNet Summer Research Internship.
 They contain visual plots and calculations regarding cosmic ray muon data. 
 
 You can  install <a href="https://www.anaconda.com/products/distribution">Anaconda</a> to run Jupyter locally on your computer. 
+To download a notebook and run in locally, right-click or command-click the download link and select "save link as".
 
 <strong>Here are the different Jupyter Notebooks that you have access to.</strong>
 <table style="width:100%">
