@@ -26,7 +26,7 @@ To download a notebook and run in locally, right-click or command-click the down
 
 
 
-<p><i>Contact <a href="adams@fnal.gov">Mark Adams</a> if you have any questions </i></p>
+<p><i>Contact adams@fnal.gov if you have any questions </i></p>
 
 
 
