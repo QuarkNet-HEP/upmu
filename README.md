@@ -29,5 +29,5 @@ All the files used in the calculations were taken as hybrid files from the cosmi
 
 
 
-<p><i>Please Note...</i></p>
-<p><i>Unzip the 6119-hybridOut-June17-27.zip file before running your code</i></p>
+<p>Please Note...</p>
+<p>Unzip the <i>6119-hybridOut-June17-27.zip</i> file before running your code</p>
