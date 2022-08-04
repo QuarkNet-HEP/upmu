@@ -14,7 +14,7 @@ To download a notebook and run in locally, right-click or command-click the down
     <th>qn_upmu_tof.ipynb</th>
   </tr>
   <tr>
-    <td>2022 Signal Calculation</td>
+    <td>Signal Calculation</td>
     <td>2D Plots and Calculations</td>
     <td>1D Time of Flight Plots</td>
   </tr>
