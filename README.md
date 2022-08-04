@@ -23,9 +23,9 @@ To download a notebook and run in locally, right-click or command-click the down
 
 
 
-Explain the input files from e-Lab 6119 detector (shower analysis) from powerpoint slides here
+All the files used in the calculations were taken as hybrid files from the cosmic ray <a href="https://www.i2u2.org/elab/cosmic/home/project.jsp">e-Lab</a> 
 
- <p>Contact <i>adams@fnal.gov</i> if you have any questions </p>
+ <p>Please contact <i>adams@fnal.gov</i> if you have any questions </p>
 
 
 
